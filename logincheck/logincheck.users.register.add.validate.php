@@ -2,6 +2,7 @@
 /* ====================
 [BEGIN_COT_EXT]
 Hooks=users.register.add.validate
+Order=1
 [END_COT_EXT]
 ==================== */
 
