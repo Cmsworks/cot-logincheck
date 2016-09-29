@@ -1,7 +1,7 @@
 # cot-logincheck
 Плагин проверки логина при регистрации для Cotonti Siena
 
-Разработчик: Булат Юсупов support@cmsworks.ru
+Разработчик: Булат Юсупов (https://cmsworks.ru)
 
 Copyright CMSWorks Team 2015
 
